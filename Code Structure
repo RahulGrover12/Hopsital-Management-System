@@ -1,0 +1,25 @@
+We have 5 Classes
+Patient
+Doctor
+Appointments
+Main Class
+Database Connection
+
+Patient class methods are:-
+add_patient()
+view_patient()
+check_patient()
+
+Doctor class methods are:-
+view_doctors()
+check_doctors()
+
+Appointments class methods are:-
+view_appointments()
+book_appointment()
+check doctor Availability
+
+Main class includes:-
+Driver code
+Main Menu
+Exit

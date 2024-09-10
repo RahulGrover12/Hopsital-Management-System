@@ -1,0 +1,22 @@
+WE have 3 Schemas
+Patients
+Doctors
+Appointments
+
+Patient me Attributes honge:-
+ID (Primary Key)
+Name
+Age
+Gender
+
+Doctors me Attributes honge:-
+ID (Primary Key)
+Name
+Specialization
+Gender
+
+Appointments me Attributes honge:-
+ID (Primary Key)
+Patient ID (Foreign Key)
+Doc ID (Foreign Key)
+App. Date
